@@ -1,0 +1,139 @@
+# Copyright (C) 2024 Webkul
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Booking Commerce 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/booking-commerce/\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-11T12:02:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"language-team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Domain: booking-commerce\n"
+
+#. Plugin Name of the plugin
+#: booking-commerce.php
+msgid "Booking Commerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: booking-commerce.php
+msgid "https://wordpress.org/plugins/booking-commerce/"
+msgstr ""
+
+#. Description of the plugin
+#: booking-commerce.php
+msgid "The \"Booking Commerce Plugin\" adds a booking widget to WordPress, letting admins choose display pages for seamless booking portal integration."
+msgstr ""
+
+#. Author of the plugin
+#: booking-commerce.php
+msgid "Webkul"
+msgstr ""
+
+#. Author URI of the plugin
+#: booking-commerce.php
+msgid "https://webkul.com"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:81
+#: includes/admin/class-wkbooking-admin-function-handler.php:368
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:111
+#: includes/admin/class-wkbooking-admin-function-handler.php:112
+msgid "Booking"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:130
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:131
+msgid "Services & Support"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:132
+msgid "Extensions"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:138
+msgid "Booking Widget Settings"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:315
+msgid "Shortcode copied!"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:387
+msgid "View documentation"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:387
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:388
+msgid "Visit customer support"
+msgstr ""
+
+#: includes/admin/class-wkbooking-admin-function-handler.php:388
+msgid "Support"
+msgstr ""
+
+#: includes/class-wkbooking-commerce-widget.php:29
+msgid "This is booking widget."
+msgstr ""
+
+#: includes/class-wkbooking-commerce-widget.php:31
+msgid "Booking Widget"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:58
+msgid "Settings saved successfully."
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:61
+msgid "Nonce verification failed. Please try again."
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:64
+msgid "You do not have sufficient permissions to perform this action."
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:86
+msgid "Select Pages for Shortcode"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:98
+msgid "Booking Commerce Domain"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:105
+msgid "Please enter a valid domain in the format http://subdomain.bookingcommerce.com"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:109
+msgid "Appearance -> Widgets -> Booking Widget"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:110
+msgid "Directly add from the widget section Or use shortcodes inside your page/article:"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:114
+msgid "Copy Shortcode"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:118
+msgid "Short code copied!"
+msgstr ""
+
+#: templates/admin/class-wkbooking-admin-creds-settings.php:124
+msgid "Save Changes"
+msgstr ""
