@@ -14,6 +14,9 @@
  * Requires PHP: 7.4
  * Tested up to PHP: 8.3
  *
+ * License: GPLv3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ *
  * Store URI: https://wordpress.org/plugins/booking-commerce/
  * Blog URI: https://webkul.com/blog/wordpress-booking-plugin/
  *
