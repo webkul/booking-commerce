@@ -89,7 +89,14 @@ class WKBOOKING_Admin_Function_Handler {
 	 * @return void
 	 */
 	public function wkbooking_register_booking_link() {
-		register_setting( 'booking-commerce-link', 'wkbooking_link' );
+		register_setting(
+			'wkbooking-commerce-link',
+			'wkbooking_link',
+			array(
+				'type'              => 'string',
+				'sanitize_callback' => 'sanitize_text_field',
+			)
+		);
 	}
 
 	/**

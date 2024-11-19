@@ -9,9 +9,6 @@
  * Text Domain: booking-commerce
  * Domain Path: /languages
  *
- * License: GPLv3
- * License URI: http://www.gnu.org/licenses/gpl-3.0.html
- *
  * Requires at least: 6.5
  * Tested up to: 6.7
  * Requires PHP: 7.4

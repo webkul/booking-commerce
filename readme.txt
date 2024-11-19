@@ -1,16 +1,13 @@
 === Booking Commerce ===
-Contributors: Webkul
+Contributors: webkul
+Tags: booking-commerce, booking, commerce, e-commerce, online-booking
 Requires at least: 6.5
 Tested up to: 6.7
 Stable tag: 1.1.0
 Requires PHP: 7.4
 Tested up to PHP: 8.3
-
-Tags: booking-commerce, booking, commerce, e-commerce, ecommerce
-
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
 Donate link: https://marketplace.webkul.com/knowledgebase/make-payment-customization/
 
 The "Booking Commerce Plugin" adds a booking widget to WordPress, letting admins choose display pages for seamless booking portal integration.
@@ -29,7 +26,36 @@ A powerful WordPress plugin that embeds a booking widget for your commerce porta
 4. **Seamless User Experience:** Provides an embedded booking experience, keeping users on-site while accessing your booking portal.
 5. **Customizable and Lightweight:** Designed to be efficient and lightweight, minimizing impact on site performance while providing essential booking functionality.
 
+= Connect with us =
+
+- Check out [Our Website](https://webkul.com/)
+- Join our [Facebook Group](https://www.facebook.com/webkul/)
+- Visit our [Instagram Page](https://www.instagram.com/lifeatwebkul/)
+- Follow us on [X(formerly Twitter)](https://x.com/webkul/)
+- Learn more on our [YouTube Channel](https://www.youtube.com/webkul)
+- Follow us on [LinkedIn](https://in.linkedin.com/company/webkul)
+- Rate us on [WordPress](https://wordpress.org/support/plugin/booking-commerce/reviews/?filter=5/#new-post/) :)
+
+= Privacy notices =
+
+For showing extensions and the support and services tabs we are using our Webkul Services. So, confirming the privacy policies is recommended.
+
+* Extensions [Webkul Policy](https://webkul.com/privacy-policy/)
+
+To get customer current location and timezone information we are using the API services from https://ipinfo.io/.
+
+* Location and Timezone [IPinfo](https://ipinfo.io/privacy-policy/)
+
 == Installation ==
+
+= Minimum Requirements =
+
+* WordPress 6.5 or greater
+* PHP version 7.4 or greater
+* MySQL version 5.0 or greater
+* WordPress Memory limit of 64 MB or greater (128 MB or higher is preferred)
+
+
 1. Upload the `booking-commerce-plugin` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to the plugin settings to select the page(s) where you want the booking widget to appear.
@@ -48,11 +74,12 @@ Yes, the plugin is designed to work with most themes, though some custom themes 
 == Screenshots ==
 
 1. **Admin Settings** - Screenshot of the admin settings page where you can select the page for widget display.
+
 2. **Booking Widget on Page** - Screenshot of the booking widget as it appears on the selected page.
 
 == Changelog ==
 
-= 1.1.0 (12-11-2024) =
+= 1.1.0 (19-11-2024) =
 * Added: Page selection for booking widget display, activation functions, domain validation, and translations.
 * Updated: Admin panel, file structure to use singleton pattern.
 * Fixed: CSS issues with new WordPress versions, minor code formatting, and security vulnerabilities.
